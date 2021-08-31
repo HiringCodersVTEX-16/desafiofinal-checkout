@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Desafio Final - Checkout </h1>
-	</br><p>Projeto realizado no desafio final do <a href="https://www.hiringcoders.com.br/">Hiring Coders 2021</a> realizado pelo grupo 16.</br>
+	</br><p>Projeto desenvolvido no desafio final do <a href="https://www.hiringcoders.com.br/" target="_blank">Hiring Coders 2021</a> pelo grupo 16.</br>
 	<p> <strong> Arquivos e considerações pertinentes ao checkout e jornada do usuário na conversão de lead.</strong></p>
 </div>
 
@@ -20,6 +20,13 @@
 }
 ```
 
+### 🛒 Carrinho de Itens
+<img src="https://github.com/HiringCodersVTEX-16/desafiofinal-checkout/blob/main/carrinho.png" alt="Carrinho de Itens" width="90%"/>
+
+### ✔️ Checkout
+<img src="https://github.com/HiringCodersVTEX-16/desafiofinal-checkout/blob/main/checkout.png" alt="Checkout" width="90%"/>
+
+
 ## ⚙️ Funcionalidades
 Para que a jornada de usuário fosse possível, realizamos os seguintes cadastros:
 -	Marca de produto;
@@ -30,11 +37,17 @@ Para que a jornada de usuário fosse possível, realizamos os seguintes cadastro
 -	Inserimos imagem no SKU;
 -	Inserimos preço no SKU;
 -	Inserimos Estoque no SKU;
--	Forma de pagamento;
+-	Forma de pagamento.
 
 ## 🎁 Bônus 
 Uma vez que entendemos que a dinâmica do desafio proposto visa o entendimento e prática da captura e conversão de leads, achamos interessante cadastrar uma promoção regular acionada por cupom e aplicada na primeira compra, assim o lojista pode entrar em contato com o lead e oferecer um desconto em sua primeira compra. 
 
+
+## 📂 Repositórios do Projeto
+- <a href="https://github.com/HiringCodersVTEX-16/desafiofinal-frontend">Front-end</a>
+- <a href="https://github.com/HiringCodersVTEX-16/desafiofinal-apiaws">API AWS</a>
+- <a href="https://github.com/HiringCodersVTEX-16/APIAdmin">API Admin</a>
+- <a href="https://github.com/HiringCodersVTEX-16/react-app-template">Componente React para cadastro de leads</a>
 <br>
 
 Desenvolvido com ❤︎ pelo Grupo 16 ACCT.
