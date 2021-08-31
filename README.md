@@ -46,7 +46,7 @@ Uma vez que entendemos que a dinâmica do desafio proposto visa o entendimento e
 ## 📂 Repositórios do Projeto
 - <a href="https://github.com/HiringCodersVTEX-16/desafiofinal-frontend">Front-end</a>
 - <a href="https://github.com/HiringCodersVTEX-16/desafiofinal-apiaws">API AWS</a>
-- <a href="https://github.com/HiringCodersVTEX-16/APIAdmin">API Admin</a>
+- <a href="https://github.com/HiringCodersVTEX-16/API-Admin-Finalizado">API Admin</a>
 - <a href="https://github.com/HiringCodersVTEX-16/react-app-template">Componente React para cadastro de leads</a>
 <br>
 
